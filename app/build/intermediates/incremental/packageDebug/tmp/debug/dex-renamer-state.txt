@@ -1,0 +1,4 @@
+#Mon Oct 17 00:35:08 CEST 2022
+base.0=C\:\\Users\\Arek\\Desktop\\Quiz\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
